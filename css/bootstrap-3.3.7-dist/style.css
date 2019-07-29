@@ -1,0 +1,37 @@
+.header_section{ width: 100%; max-height: 700px; background: #252B33;}
+.headercontain{ color: white;}
+.headercontain h3{}
+.headercontain h2{}
+.headercontain p{}
+.signup_form{}
+.signup {
+    width: 70%;
+    color: #15CCBE;
+    float: right;
+    margin-top: 70px;
+    background-color: #F8FAFF;
+    padding: 0px 30px 0px 30px;
+    line-height: 35px;
+    height: 455px;
+    border-radius: 5px;
+}
+.footer_Submit_button {
+    padding: 10px 15px 10px 15px;
+    font-size: 18px;
+    border-radius: 100px;
+    background: #15CCBE;
+    text-shadow: none;
+    border: none;
+    color: white;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+.massage {
+   
+    width: 100%;
+    margin: 20px 0px 20px 10px;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 3px;
+}
